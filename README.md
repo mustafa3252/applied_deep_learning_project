@@ -1,4 +1,4 @@
-# ADL Coursework 2 - Group 10
+# ADL Project
 
 ## Requirements
 
