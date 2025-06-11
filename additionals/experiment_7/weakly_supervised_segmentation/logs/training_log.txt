@@ -1,0 +1,19 @@
+=== Weakly Supervised Segmentation Pipeline - 2025-04-15 11:07:10.167160 ===
+
+[2025-04-15 11:07:10] Starting weakly supervised segmentation pipeline...
+[2025-04-15 11:07:10] Device: cpu
+[2025-04-15 11:07:10] PyTorch version: 2.5.0+cpu
+[2025-04-15 11:07:10] 
+1. Setting up classification datasets...
+[2025-04-15 11:07:10] Training set (classification): 2944 images
+[2025-04-15 11:07:10] Validation set (classification): 736 images
+[2025-04-15 11:07:10] Test set (segmentation): 3669 images
+[2025-04-15 11:07:10] 
+2. Training the classifier...
+[2025-04-15 11:07:11]   Batch 0/184: Loss: 3.5799, Acc: 0.00%
+[2025-04-15 11:07:11]     Sample 0: True=10, Pred=12
+[2025-04-15 11:07:11]     Sample 1: True=24, Pred=1
+[2025-04-15 11:07:23]   Batch 18/184: Loss: 3.4231, Acc: 25.00%
+[2025-04-15 11:07:36]   Batch 36/184: Loss: 2.7558, Acc: 56.25%
+[2025-04-15 11:07:53]   Batch 54/184: Loss: 2.3642, Acc: 62.50%
+[2025-04-15 11:08:05]   Batch 72/184: Loss: 1.6169, Acc: 68.75%

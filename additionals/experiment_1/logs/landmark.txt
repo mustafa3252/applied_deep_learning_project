@@ -1,0 +1,1 @@
+{"cls": {"progress": null, "learning_rate5e-05_weight_decay1e-05_resnet_prob0.1": {"accuracy": 2.5815217391304346, "model": "models/classifier_learning_rate5e-05_weight_decay1e-05_resnet_prob0.1.pth"}}, "seg": {}}
